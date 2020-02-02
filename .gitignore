@@ -1,0 +1,12 @@
+*.json
+img/
+*.pdf
+css/
+.vs/
+*.txt
+*.TMP
+node_modules
+node_modules/
+scss/
+vendor/
+css/
